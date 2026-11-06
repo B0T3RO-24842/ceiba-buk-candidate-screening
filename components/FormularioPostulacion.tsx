@@ -496,7 +496,7 @@ export default function FormularioPostulacion({
     <>
       <main className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6 lg:py-16">
         <div className="grid gap-8 lg:grid-cols-[minmax(0,0.85fr)_minmax(0,1.15fr)] lg:items-start">
-          <section className="animate-fade-up lg:sticky lg:top-8">
+          <section className="animate-fade-up lg:sticky lg:top-24">
             <span className="inline-flex items-center rounded-full bg-ink px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-brand">
               Talento CEIBA
             </span>
