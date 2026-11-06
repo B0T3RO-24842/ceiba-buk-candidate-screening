@@ -8,7 +8,7 @@ ScreenFlow recibe una postulación simulada desde LinkedIn, valida y normaliza l
 >
 > Esta es una vitrina de portafolio. La demo usa datos ficticios y un **Mock BUK** interno. No representa una integración en producción ni un acceso oficial a los sistemas de CEIBA.
 
-**Demo:** _(se actualiza al desplegar en Vercel)_
+**Demo:** https://ceiba-buk-candidate-screening.vercel.app
 **Contacto:** [LinkedIn — Samuel Botero Londoño](https://www.linkedin.com/in/samuel-botero-londo%C3%B1o-597b38447/)
 
 ---
