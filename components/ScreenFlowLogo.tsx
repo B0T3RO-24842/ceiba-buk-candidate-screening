@@ -8,6 +8,7 @@ export default function ScreenFlowLogo({
   compact = false,
 }: ScreenFlowLogoProps) {
   const titleColor = variant === "light" ? "text-white" : "text-ink";
+  const accentColor = variant === "light" ? "text-brand" : "text-brand-dark";
   const subtitleColor = variant === "light" ? "text-white/50" : "text-ink-muted";
 
   return (
@@ -40,7 +41,7 @@ export default function ScreenFlowLogo({
       {!compact && (
         <span className="leading-tight">
           <strong className={`block text-lg font-black tracking-tight ${titleColor}`}>
-            Screen<span className="text-brand">Flow</span>
+            Screen<span className={accentColor}>Flow</span>
           </strong>
           <span
             className={`block text-[10px] font-bold uppercase tracking-[0.18em] ${subtitleColor}`}
